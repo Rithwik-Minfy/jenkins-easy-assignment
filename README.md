@@ -1,17 +1,20 @@
 # Jenkins Easy Assignment
 
-1. Screenshot of your Jenkins dashboard
+1. Screenshot of Jenkins dashboard
+
 ![Screenshot (5)](https://github.com/user-attachments/assets/af7af6f9-0eba-4369-afd1-9a44856d742a)
 
-2. Screenshot of your pipeline's successful execution (Stage View)
+3. Screenshot of pipeline's successful execution (Stage View)
+   
 ![Screenshot (6)](https://github.com/user-attachments/assets/5aba783b-72cf-4e91-ac0c-baf79561de3b)
 
-3. Screenshot of the console output from one of your builds
+5. Screenshot of the console output from one of your builds
+   
 ![Screenshot (7)](https://github.com/user-attachments/assets/7f47458c-a8c9-4175-adca-81d5c0ab1b74)
 
-4. Brief summary (3-5 sentences) describing what you learned about Jenkins navigation
+7. Brief summary
 
-In this assignment, I learned how to navigate Jenkins by exploring its main dashboard and familiarizing myself with key components like the job list, build queue, and executor status.
+In this assignment, I learned how to navigate the key components of Jenkins, including the main dashboard, job configuration, and build history. 
 
 I created a simple pipeline job named 'HelloJenkins' and configured it with stages for building, testing, and deploying an application.
 
